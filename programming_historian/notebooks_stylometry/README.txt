@@ -4,3 +4,4 @@ therefore I modified the notebook and marked the changes. With this new version 
 
 -stylometry.ipynb:	original code from webpage
 -stylometry-filter_punctuation.ipynb:	code for removing punctuation modified in order to reproduce results from webpage (see MODIFIED)	
+-stylometry-heisenstein.ipynb:	stylometry example with Heisenberg and Einstein texts from PDFs	
