@@ -21,7 +21,7 @@ imutils
 Notebooks:
 ----------
 -find_iter_picture.ipynb: assumes a matching table in every image
--find_iter_picture-2.ipyng: loops over several images to find the best match
+-find_iter_picture-2.ipyng: loops over several images to check whether there is any match and find the best match
 
 
 
