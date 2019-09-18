@@ -16,3 +16,12 @@ matplotlib
 jupyter
 opencv
 imutils
+
+
+Notebooks:
+----------
+-find_iter_picture.ipynb: assumes a matching table in every image
+-find_iter_picture-2.ipyng: loops over several images to find the best match
+
+
+
